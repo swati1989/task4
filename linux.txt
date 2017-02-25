@@ -1,0 +1,46 @@
+ls
+ls -al
+ls -lrt
+ls -lt
+touch file.txt
+cat file
+echo "msg" > filename
+clear
+history
+chmod +x
+mkdir
+date
+uname
+who
+tty
+who am i
+wc
+tree
+more
+head
+tail
+passwd
+sort
+grep
+tr
+cut
+ps
+kill
+touch
+comm
+cmp
+diff
+wall
+write
+mail
+finger
+ping
+sed
+pipe
+awk
+iconfig
+bc
+set
+chown
+su
+tar
