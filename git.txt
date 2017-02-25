@@ -1,0 +1,12 @@
+git clone url
+touch filename
+echo "msg"
+cat fiename
+git status
+ls
+git add filename
+git status
+git commit -m "msg"
+git config --global user.name "swati1989"
+git config --global user.email "swatigoyal20502gmail.com"
+git push origin master
